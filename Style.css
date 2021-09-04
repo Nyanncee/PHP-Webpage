@@ -1,0 +1,28 @@
+
+body
+{ font: 15px sans-serif;  color: plum;margin: auto;}
+
+
+.h1{
+    color:royalblue;
+   
+    padding-left: 10px;
+   
+}
+.centre .form-group
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    
+   
+   
+}
+
+.centre .form-control
+{
+    width: 200px;
+    
+}
+.foot{
+    padding-left: 10px;
+}
