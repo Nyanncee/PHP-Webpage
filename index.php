@@ -13,7 +13,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
 }
  
  
-// Define variables and initialize with empty values
+// Defining variables and initialize with empty values
 $username = $password = "";
 $username_err = $password_err = $login_err = "";
  
